@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shoimya
 - 👀 I’m interested in Computer Science and Artificial Intelligence 
-- 🌱 I’m currently finsinhing my Bachelor's in CSE from Michigan State University 
-- 💞️ I’m looking to collaborate on any C++, python projects 
+- 🌱 I’m currently finishing my Bachelor's in CSE from Michigan State University 
+- 💞️ I’m looking to collaborate on any C++, python projects and a Summer Internship
 - 📫 How to reach me: chyshoimya@gmail.com
 
 <!---

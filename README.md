@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shoimya
-- 👀 I’m interested in Computer Science and material related to my field 
-- 🌱 I’m currently finsinhing my BS in CSE
-- 💞️ I’m looking to collaborate on any C++ python projects 
+- 👀 I’m interested in Computer Science and Artificial Intelligence 
+- 🌱 I’m currently finsinhing my Bachelor's in CSE
+- 💞️ I’m looking to collaborate on any C++, python projects 
 - 📫 How to reach me: chyshoimya@gmail.com
 
 <!---

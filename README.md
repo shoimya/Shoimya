@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shoimya
+- 👋 Hi, I’m @shoimya
 - 👀 I’m interested in Computer Science and Artificial Intelligence 
 - 🌱 I’m currently finishing my Bachelor's in CSE from Michigan State University 
 - 💞️ I’m looking to collaborate on any C++, python projects and a Summer Internship

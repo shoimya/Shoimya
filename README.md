@@ -6,7 +6,7 @@
  -->
 
 - 👋 Hello, I'm @shoimya
-- 👀 I have a keen interest in Computer Science and Artificial Intelligence.
+- 👀 I have a keen interest in Computer Science and Machine Learning.
 - 🌱 I recently graduated with a degree in Computer Science and Engineering from Michigan State University.
 - 💞️ I am actively seeking collaborative opportunities on C++ and Python projects, while also exploring full-time positions as a full stack developer or software developer.
 - 📫 Feel free to reach out to me at chyshoimya@gmail.com. I am always eager to connect and showcase my enthusiasm for continuous learning and growth as a valuable candidate.
